@@ -1,0 +1,45 @@
+{
+    "version": "1.7.0",
+    "autor": "mindicador.cl",
+    "fecha": "2022-08-04T20:00:00.000Z",
+   
+    "dolar": {
+        "codigo": "dolar",
+        "nombre": "Dólar observado",
+        "unidad_medida": "Pesos",
+        "fecha": "2022-08-04T04:00:00.000Z",
+        "valor": 907.82,
+        "serie": [
+
+            {"fecha": "2022-07-27", "valor": 904.00},
+            {"fecha": "2022-07-28", "valor": 906.00},
+            {"fecha": "2022-07-29", "valor": 908.00},
+            {"fecha": "2022-07-30", "valor": 910.00},
+            {"fecha": "2022-07-31", "valor": 912.00},
+            {"fecha": "2022-08-01", "valor": 914.00},
+            {"fecha": "2022-08-02", "valor": 916.00},
+            {"fecha": "2022-08-03", "valor": 918.00},
+            {"fecha": "2019-07-19", "valor": 688.00}
+        ]
+    },
+    "euro": {
+        "codigo": "euro",
+        "nombre": "Euro",
+        "unidad_medida": "Pesos",
+        "fecha": "2022-08-04T04:00:00.000Z",
+        "valor": 922.21,
+        "serie": [
+            {"fecha": "2022-07-25", "valor": 920.00},
+            {"fecha": "2022-07-26", "valor": 921.00},
+            {"fecha": "2022-07-27", "valor": 922.00},
+            {"fecha": "2022-07-28", "valor": 923.00},
+            {"fecha": "2022-07-29", "valor": 924.00},
+            {"fecha": "2022-07-30", "valor": 925.00},
+            {"fecha": "2022-07-31", "valor": 926.00},
+            {"fecha": "2022-08-01", "valor": 927.00},
+            {"fecha": "2022-08-02", "valor": 928.00},
+            {"fecha": "2022-08-03", "valor": 929.00}
+        ]
+    }
+         
+}
